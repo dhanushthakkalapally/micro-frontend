@@ -5,14 +5,14 @@
 ### Layout App
     cd layout
     npm install
-    npm run build && npm preview
+    npm run build && npm run preview
 
 ### Books App
     cd books-app
     npm install
-    npm run build && npm preview
+    npm run build && npm run preview
 
 ### Host App
     cd host
     npm install
-    npm run build && npm preview
+    npm run build && npm run preview
